@@ -1,60 +1,8 @@
 # pawa-task
 
-This is test assignment for FE developer Please implement a simple todo list application called "pawaTask" that keeps
-track of your time. Use this [prototype](https://icvmmk.axshare.com/prototype.html).
+<img width="400" alt="Снимок экрана 2022-11-21 в 13 26 39" src="https://user-images.githubusercontent.com/107538948/203040270-22e16877-69f6-4ac0-96eb-85e92dcb60b1.png"><img width="400" alt="pawatask" src="https://user-images.githubusercontent.com/107538948/203040333-42dcd9f7-5c7d-48ed-b934-7e0e74621341.png"><img width="400" alt="pawa" src="https://user-images.githubusercontent.com/107538948/203040399-9e79ac39-9005-437a-8c4f-b4196beb239a.png">
 
-[View crafted app DEMO at Vercel](https://pawa-task.vercel.app/)
+
+
 
 ## Roadmap
-
-- [x] Base project structure
-  - [x] Use one main layout
-  - [x] Other views showing in modals
-- [x] Create Views and Components
-  - [x] Task list view
-  - [x] Task Add|edit
-  - [x] Task comments
-- [x] VueX store modeling
-  - [x] Typings for all entities
-  - [x] Save|restore from LocalStorage
-  - [x] Allow clear all data
-- [x] App styling
-  - [x] Light and dark themes
-  - [x] Use theme variables
-- [x] DarkMode feature
-  - [x] Use device theme
-  - [x] Manual toggle allowed
-  - [x] Save selected mode
-- [x] Unit testing and final refactoring|tuning
-  - [x] Some views and components have basic unit tests
-- [x] Auto deploy app onto Vercel
-
-## Project Setup
-
-```sh
-yarn install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-yarn dev
-```
-
-### Type-Check, Compile and Minify for Production
-
-```sh
-yarn build
-```
-
-### Run Unit Tests with [Vitest](https://vitest.dev/)
-
-```sh
-yarn test:unit
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-yarn lint
-```
